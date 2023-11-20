@@ -10,7 +10,9 @@
 }
 .summarytext {
     padding: 35px;
+    height: 254.58px;
     background-color: rgb(0,0,0,0.25);
+    font-size: 25px;
 }
 .homemargin {
     align-items: center;
@@ -18,11 +20,11 @@
 }
 .topbox {
     margin-top: 
-    margin-bottom: 175px;
+    margin-bottom: 7.5px;
 
 }
 .botbox {
-margin-top: 175px;
+margin-top: 7.5px;
 }
 .rap-card {
     border: 5px solid black;
@@ -55,11 +57,20 @@ margin-top: 175px;
 .footer {
     background-color: black;
     height: 200px;
-<<<<<<< HEAD
 }
 .spotify {
     margin-left: 25%;
     margin-right: 25%;
-=======
->>>>>>> bb76de5ec5f2cd91d1c5468fb2866e55404d1a3f
+}
+hr {
+    color: white;
+    height:5px;
+}
+.foothr {
+    margin-top: 130px;
+    margin-left: 250px;
+    width: 340%;
+}
+.footertext{ 
+    
 }
