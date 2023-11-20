@@ -62,15 +62,9 @@ margin-top: 7.5px;
     margin-left: 25%;
     margin-right: 25%;
 }
-hr {
-    color: white;
-    height:5px;
-}
-.foothr {
+.footertext{ 
+    border-bottom: 1px solid white;
     margin-top: 130px;
     margin-left: 250px;
-    width: 340%;
-}
-.footertext{ 
-    
+    padding-bottom: 10px;
 }
