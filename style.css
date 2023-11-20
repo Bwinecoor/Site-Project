@@ -7,7 +7,6 @@
 
 .sectionseparate {
     margin-top: 40px;
-    margin-left: 60px;
 }
 .summarytext {
     padding: 35px;
@@ -56,4 +55,11 @@ margin-top: 175px;
 .footer {
     background-color: black;
     height: 200px;
+<<<<<<< HEAD
+}
+.spotify {
+    margin-left: 25%;
+    margin-right: 25%;
+=======
+>>>>>>> bb76de5ec5f2cd91d1c5468fb2866e55404d1a3f
 }
