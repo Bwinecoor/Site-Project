@@ -91,3 +91,7 @@ margin-top: 7.5px;
     background-color: rgb(17, 17, 17);
     border: 5px solid black;
 }
+.contacttitle {
+    color: rgb(200, 200, 200);
+    margin-bottom: 5px;
+}
