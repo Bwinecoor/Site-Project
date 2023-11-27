@@ -36,15 +36,15 @@ margin-top: 7.5px;
     border-radius: 25px;
     width: 35%;
     height:600px;
-    background-color: grey;
+    background-color: rgb(17, 17, 17);
 }
 .rapcarousel {
     margin: auto;
 }
 .cardimg {
-    width: 70%;
+    width: 40%;
     border: 5px solid black;
-    height: 10px;
+    height: 50%;
 }
 .contact-form {
     border: 5px solid black;
@@ -54,6 +54,7 @@ margin-top: 7.5px;
     margin-right: 25%;
     width: 60%;
     margin: auto;
+    background-color: rgb(17, 17, 17);
 
 }
 .inner-contact {
@@ -79,4 +80,14 @@ margin-top: 7.5px;
 }
 .text-color-white {
     color: rgb(200, 200, 200);
+}
+.contactbutton {
+    margin-top: 20px;
+    background-color: red;
+    border: 5px solid black;
+}
+.contactbutton:hover {
+    margin-top: 20px;
+    background-color: rgb(17, 17, 17);
+    border: 5px solid black;
 }
