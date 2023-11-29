@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(28, 28, 28);
+}
+
 .dhruvaimg {
     width: 393.12px ;
     height: 524.16px;
@@ -10,7 +14,10 @@
 }
 .summarytext {
     padding: 35px;
-    background-color: rgb(0,0,0,0.25);
+    height: 254.58px;
+    background-color: rgb(17, 17, 17);
+    font-size: 25px;
+    border: 5px solid black;
 }
 .homemargin {
     align-items: center;
@@ -18,26 +25,26 @@
 }
 .topbox {
     margin-top: 
-    margin-bottom: 175px;
+    margin-bottom: 7.5px;
 
 }
 .botbox {
-margin-top: 175px;
+margin-top: 7.5px;
 }
 .rap-card {
     border: 5px solid black;
     border-radius: 25px;
     width: 35%;
     height:600px;
-    background-color: grey;
+    background-color: rgb(17, 17, 17);
 }
 .rapcarousel {
     margin: auto;
 }
 .cardimg {
-    width: 70%;
+    width: 40%;
     border: 5px solid black;
-    height: 10px;
+    height: 50%;
 }
 .contact-form {
     border: 5px solid black;
@@ -47,6 +54,7 @@ margin-top: 175px;
     margin-right: 25%;
     width: 60%;
     margin: auto;
+    background-color: rgb(17, 17, 17);
 
 }
 .inner-contact {
@@ -56,7 +64,30 @@ margin-top: 175px;
     background-color: black;
     height: 200px;
 }
-.spotify {
-    margin-left: 25%;
-    margin-right: 25%;
+.footertext{ 
+    border-bottom: 1px solid white;
+    margin-top: 130px;
+    margin-left: 250px;
+    padding-bottom: 10px;
+}
+.navbg {
+    background-color: rgb(17, 17, 17);
+    border-bottom: 5px solid black;
+}
+.text-color-white {
+    color: rgb(200, 200, 200);
+}
+.contactbutton {
+    margin-top: 20px;
+    background-color: red;
+    border: 5px solid black;
+}
+.contactbutton:hover {
+    margin-top: 20px;
+    background-color: rgb(17, 17, 17);
+    border: 5px solid black;
+}
+.contacttitle {
+    color: rgb(200, 200, 200);
+    margin-bottom: 5px;
 }
