@@ -91,3 +91,20 @@ margin-top: 7.5px;
     color: rgb(200, 200, 200);
     margin-bottom: 5px;
 }
+.rap_card {
+    background-color: rgb(17, 17, 17);
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+.rapimg {
+    border: 5px solid black;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.raptitle {
+    color: rgb(200, 200, 200);
+}
+.play_pause {
+    background-color: rgba(255, 0, 0, 0)(255, 255, 255);
+}
