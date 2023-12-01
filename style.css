@@ -12,13 +12,6 @@ body {
 .sectionseparate {
     margin-top: 40px;
 }
-.summarytext {
-    padding: 35px;
-    height: 254.58px;
-    background-color: rgb(17, 17, 17);
-    font-size: 25px;
-    border: 5px solid black;
-}
 .homemargin {
     align-items: center;
     position:absolute;
@@ -96,15 +89,58 @@ margin-top: 7.5px;
     padding: 20px;
     border: 5px solid black;
     border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 .rapimg {
     border: 5px solid black;
     border-radius: 5px;
     margin-bottom: 30px;
+    transition-duration: 1s;
+
+}
+.rapimg:hover {
+    border: 5px solid black;
+    border-radius: 250px;
+    margin-bottom: 30px;
+    transition-duration: 1s;
 }
 .raptitle {
     color: rgb(200, 200, 200);
+    margin-bottom: 30px;
 }
 .play_pause {
     background-color: rgba(255, 0, 0, 0)(255, 255, 255);
+}
+.buttonplaypause {
+    background-color: white;
+    border-radius:25px;
+    border: 2px solid white;
+}
+.buttonplaypause:hover {
+    background-color: red;
+    border-radius:25px;
+    border: 2px solid red;
+}
+.sectiontitles {
+    color: rgb(200, 200, 200);
+    font-size: 75px;
+    margin-bottom: 40px;
+    font-family: 'Nova Square', sans-serif;
+}
+.regtext {
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(200, 200, 200);
+}
+.summarytext {
+    font-size: 25px;
+    font-family: 'AR One Sans', sans-serif;
+    color: rgb(200, 200, 200);
+}
+.summarycontainer {
+    padding: 35px;
+    height: 254.58px;
+    background-color: rgb(17, 17, 17);
+    border: 5px solid black;
+    margin-top: 30px;
 }
