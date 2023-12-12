@@ -139,7 +139,7 @@ margin-top: 7.5px;
 }
 .summarycontainer {
     padding: 35px;
-    height: 254.58px;
+    height: 255px;
     background-color: rgb(17, 17, 17);
     border: 5px solid black;
     margin-top: 30px;
@@ -325,3 +325,8 @@ margin-top: 7.5px;
     width: 40px;
 }
 /* --------------------------------{Footer End}---------------------------------------------- */
+.divcontaintext {
+  word-wrap: break-word;
+  overflow: auto;
+
+}
