@@ -36,10 +36,6 @@ body {
   background-color: rgb(17, 17, 17);
 }
 
-.rapcarousel {
-  margin: auto;
-}
-
 .cardimg {
   width: 40%;
   border: 5px solid rgb(200, 200, 200);
@@ -175,12 +171,13 @@ body {
 }
 
 .hero-image {
-  padding-top: 500px;
-  border-bottom: 5px solid rgb(200, 200, 200);
-  background-image: url(images/dhruvahi.png);
+  /* background-image: url(images/dhruvahi.png);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center; */
+}
+.heroimg {
+  border: 5px solid rgb(200, 200, 200);
 }
 
 /* --------------------------------{Footer Start}---------------------------------------------- */
