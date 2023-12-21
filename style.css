@@ -167,17 +167,9 @@ body {
   border: 5px solid rgb(200, 200, 200);
   margin-top: 30px;
 }
-
-.hero-image {
-  /* background-image: url(images/dhruvahi.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center; */
-}
 .heroimg {
   border: 5px solid rgb(200, 200, 200);
 }
-
 /* --------------------------------{Footer Start}---------------------------------------------- */
 .site-footer {
   background-color: rgb(17, 17, 17);
@@ -363,4 +355,10 @@ body {
 
 .navbar-nav {
   --bs-nav-link-hover-color: rgba(255, 255, 255, 0.8);
+}
+.messagebox {
+  padding-left: 33px;
+}
+.hamburger {
+  color: white;
 }
